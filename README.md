@@ -21,3 +21,5 @@ For each team: TeamNameBatting.csv and TeamNamePitching.csv
 The playoff teams' file names should include the team's name followed by either "Batting" or "Pitching", e.g., OriolesBatting.csv, OriolesPitching.csv.
 
 All data from Baseball-Reference.com
+
+All of the data is not currently in use, just the team total rows. I am working on creating a different version using individual data.
